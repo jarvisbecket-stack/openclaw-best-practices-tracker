@@ -4,9 +4,9 @@ A daily collection of OpenClaw best practices and insights.
 
 ## Daily Reports
 
-| Date | Link | Status |
-|------|------|--------|
-| 2026-02-25 | [Best Practices - Feb 25, 2026](https://jarvisbecket-stack.github.io/openclaw-best-practices/) | ✅ Live |
+| Date | Link | Type | Status |
+|------|------|------|--------|
+| 2026-02-25 | [Best Practices + Research - Feb 25, 2026](https://jarvisbecket-stack.github.io/openclaw-best-practices/) | Consolidated | ✅ Live |
 
 ---
 
